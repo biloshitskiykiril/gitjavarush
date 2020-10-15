@@ -1,4 +1,4 @@
-package com.company;
+package com.company.task.task06;
 import java.io.BufferedReader;
 public class Age{
 	public void age(BufferedReader reader)throws Exception{
